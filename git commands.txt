@@ -1,0 +1,2 @@
+hello friends, this is a sample notepad for git project access
+so  welcome to date with git 
