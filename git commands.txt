@@ -18,3 +18,7 @@ padikkunnath hamdan foundationil
 
 git remote add hub link 
 git push hub master
+
+git clone 
+dir
+cd git
